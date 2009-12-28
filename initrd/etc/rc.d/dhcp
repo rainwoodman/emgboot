@@ -1,0 +1,11 @@
+#! /bin/bash
+
+[ x$1 != "xon" ] && exit;
+
+function dhcp {
+	ifconfig eth0 up
+	udhcpc --background
+}
+
+emit "Obtaining network address" \
+	dhcp

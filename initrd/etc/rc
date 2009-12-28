@@ -1,0 +1,30 @@
+#! /bin/bash
+export PATH=/bin:/busybox
+ON_SCRIPTS="fs dev lvm dhcp"
+OFF_SCRIPTS="lvm dev fs dhcp"
+
+
+function emit {
+	echo -n $1
+	shift
+	$* && echo OK || echo FAILED.
+}
+
+mknod /dev/kmsg c 1 11
+chmod 0600 /dev/kmsg
+
+echo Executing RC scripts for "$1" > /dev/kmsg
+
+case $1 in
+	on )
+		for rcfile in $ON_SCRIPTS; do
+			. /etc/rc.d/$rcfile $1 2>&1 > /dev/kmsg
+		done
+	;;
+	off )
+		for rcfile in $OFF_SCRIPTS; do
+			. /etc/rc.d/$rcfile $1 2>&1 > /dev/kmsg
+		done
+	;;
+esac;
+

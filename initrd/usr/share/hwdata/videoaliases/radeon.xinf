@@ -1,0 +1,373 @@
+alias pcivideo:v00001002d00003150sv*sd*bc*sc*i* radeon # ATI Radeon Mobility X600 (M24) 3150 (PCIE)
+alias pcivideo:v00001002d00003151sv*sd*bc*sc*i* radeon # ATI FireMV 2400 (PCI)
+alias pcivideo:v00001002d00003152sv*sd*bc*sc*i* radeon # ATI Radeon Mobility X300 (M24) 3152 (PCIE)
+alias pcivideo:v00001002d00003154sv*sd*bc*sc*i* radeon # ATI FireGL M24 GL 3154 (PCIE)
+alias pcivideo:v00001002d00003E50sv*sd*bc*sc*i* radeon # ATI Radeon X600 (RV380) 3E50 (PCIE)
+alias pcivideo:v00001002d00003E54sv*sd*bc*sc*i* radeon # ATI FireGL V3200 (RV380) 3E54 (PCIE)
+alias pcivideo:v00001002d00004136sv*sd*bc*sc*i* radeon # ATI Radeon IGP320 (A3) 4136
+alias pcivideo:v00001002d00004137sv*sd*bc*sc*i* radeon # ATI Radeon IGP330/340/350 (A4) 4137
+alias pcivideo:v00001002d00004144sv*sd*bc*sc*i* radeon # ATI Radeon 9500 AD (AGP)
+alias pcivideo:v00001002d00004145sv*sd*bc*sc*i* radeon # ATI Radeon 9500 AE (AGP)
+alias pcivideo:v00001002d00004146sv*sd*bc*sc*i* radeon # ATI Radeon 9600TX AF (AGP)
+alias pcivideo:v00001002d00004147sv*sd*bc*sc*i* radeon # ATI FireGL Z1 AG (AGP)
+alias pcivideo:v00001002d00004148sv*sd*bc*sc*i* radeon # ATI Radeon 9800SE AH (AGP)
+alias pcivideo:v00001002d00004149sv*sd*bc*sc*i* radeon # ATI Radeon 9800 AI (AGP)
+alias pcivideo:v00001002d0000414Asv*sd*bc*sc*i* radeon # ATI Radeon 9800 AJ (AGP)
+alias pcivideo:v00001002d0000414Bsv*sd*bc*sc*i* radeon # ATI FireGL X2 AK (AGP)
+alias pcivideo:v00001002d00004150sv*sd*bc*sc*i* radeon # ATI Radeon 9600 AP (AGP)
+alias pcivideo:v00001002d00004151sv*sd*bc*sc*i* radeon # ATI Radeon 9600SE AQ (AGP)
+alias pcivideo:v00001002d00004152sv*sd*bc*sc*i* radeon # ATI Radeon 9600XT AR (AGP)
+alias pcivideo:v00001002d00004153sv*sd*bc*sc*i* radeon # ATI Radeon 9600 AS (AGP)
+alias pcivideo:v00001002d00004154sv*sd*bc*sc*i* radeon # ATI FireGL T2 AT (AGP)
+alias pcivideo:v00001002d00004155sv*sd*bc*sc*i* radeon # ATI Radeon 9650
+alias pcivideo:v00001002d00004156sv*sd*bc*sc*i* radeon # ATI FireGL RV360 AV (AGP)
+alias pcivideo:v00001002d00004237sv*sd*bc*sc*i* radeon # ATI Radeon 7000 IGP (A4+) 4237
+alias pcivideo:v00001002d00004242sv*sd*bc*sc*i* radeon # ATI Radeon 8500 AIW BB (AGP)
+alias pcivideo:v00001002d00004243sv*sd*bc*sc*i* radeon # ATI Radeon 8500 AIW BC (AGP)
+alias pcivideo:v00001002d00004336sv*sd*bc*sc*i* radeon # ATI Radeon IGP320M (U1) 4336
+alias pcivideo:v00001002d00004337sv*sd*bc*sc*i* radeon # ATI Radeon IGP330M/340M/350M (U2) 4337
+alias pcivideo:v00001002d00004437sv*sd*bc*sc*i* radeon # ATI Radeon Mobility 7000 IGP 4437
+alias pcivideo:v00001002d00004966sv*sd*bc*sc*i* radeon # ATI Radeon 9000/PRO If (AGP/PCI)
+alias pcivideo:v00001002d00004967sv*sd*bc*sc*i* radeon # ATI Radeon 9000 Ig (AGP/PCI)
+alias pcivideo:v00001002d00004A48sv*sd*bc*sc*i* radeon # ATI Radeon X800 (R420) JH (AGP)
+alias pcivideo:v00001002d00004A49sv*sd*bc*sc*i* radeon # ATI Radeon X800PRO (R420) JI (AGP)
+alias pcivideo:v00001002d00004A4Asv*sd*bc*sc*i* radeon # ATI Radeon X800SE (R420) JJ (AGP)
+alias pcivideo:v00001002d00004A4Bsv*sd*bc*sc*i* radeon # ATI Radeon X800 (R420) JK (AGP)
+alias pcivideo:v00001002d00004A4Csv*sd*bc*sc*i* radeon # ATI Radeon X800 (R420) JL (AGP)
+alias pcivideo:v00001002d00004A4Dsv*sd*bc*sc*i* radeon # ATI FireGL X3 (R420) JM (AGP)
+alias pcivideo:v00001002d00004A4Esv*sd*bc*sc*i* radeon # ATI Radeon Mobility 9800 (M18) JN (AGP)
+alias pcivideo:v00001002d00004A4Fsv*sd*bc*sc*i* radeon # ATI Radeon X800 SE (R420) (AGP)
+alias pcivideo:v00001002d00004A50sv*sd*bc*sc*i* radeon # ATI Radeon X800XT (R420) JP (AGP)
+alias pcivideo:v00001002d00004A54sv*sd*bc*sc*i* radeon # ATI Radeon X800 VE (R420) JT (AGP)
+alias pcivideo:v00001002d00004B48sv*sd*bc*sc*i* radeon # ATI Radeon X850 (R480) (AGP)
+alias pcivideo:v00001002d00004B49sv*sd*bc*sc*i* radeon # ATI Radeon X850 XT (R480) (AGP)
+alias pcivideo:v00001002d00004B4Asv*sd*bc*sc*i* radeon # ATI Radeon X850 SE (R480) (AGP)
+alias pcivideo:v00001002d00004B4Bsv*sd*bc*sc*i* radeon # ATI Radeon X850 PRO (R480) (AGP)
+alias pcivideo:v00001002d00004B4Csv*sd*bc*sc*i* radeon # ATI Radeon X850 XT PE (R480) (AGP)
+alias pcivideo:v00001002d00004C57sv*sd*bc*sc*i* radeon # ATI Radeon Mobility M7 LW (AGP)
+alias pcivideo:v00001002d00004C58sv*sd*bc*sc*i* radeon # ATI Mobility FireGL 7800 M7 LX (AGP)
+alias pcivideo:v00001002d00004C59sv*sd*bc*sc*i* radeon # ATI Radeon Mobility M6 LY (AGP)
+alias pcivideo:v00001002d00004C5Asv*sd*bc*sc*i* radeon # ATI Radeon Mobility M6 LZ (AGP)
+alias pcivideo:v00001002d00004C64sv*sd*bc*sc*i* radeon # ATI FireGL Mobility 9000 (M9) Ld (AGP)
+alias pcivideo:v00001002d00004C66sv*sd*bc*sc*i* radeon # ATI Radeon Mobility 9000 (M9) Lf (AGP)
+alias pcivideo:v00001002d00004C67sv*sd*bc*sc*i* radeon # ATI Radeon Mobility 9000 (M9) Lg (AGP)
+alias pcivideo:v00001002d00004E44sv*sd*bc*sc*i* radeon # ATI Radeon 9700 Pro ND (AGP)
+alias pcivideo:v00001002d00004E45sv*sd*bc*sc*i* radeon # ATI Radeon 9700/9500Pro NE (AGP)
+alias pcivideo:v00001002d00004E46sv*sd*bc*sc*i* radeon # ATI Radeon 9600TX NF (AGP)
+alias pcivideo:v00001002d00004E47sv*sd*bc*sc*i* radeon # ATI FireGL X1 NG (AGP)
+alias pcivideo:v00001002d00004E48sv*sd*bc*sc*i* radeon # ATI Radeon 9800PRO NH (AGP)
+alias pcivideo:v00001002d00004E49sv*sd*bc*sc*i* radeon # ATI Radeon 9800 NI (AGP)
+alias pcivideo:v00001002d00004E4Asv*sd*bc*sc*i* radeon # ATI FireGL X2 NK (AGP)
+alias pcivideo:v00001002d00004E4Bsv*sd*bc*sc*i* radeon # ATI Radeon 9800XT NJ (AGP)
+alias pcivideo:v00001002d00004E50sv*sd*bc*sc*i* radeon # ATI Radeon Mobility 9600/9700 (M10/M11) NP (AGP)
+alias pcivideo:v00001002d00004E51sv*sd*bc*sc*i* radeon # ATI Radeon Mobility 9600 (M10) NQ (AGP)
+alias pcivideo:v00001002d00004E52sv*sd*bc*sc*i* radeon # ATI Radeon Mobility 9600 (M11) NR (AGP)
+alias pcivideo:v00001002d00004E53sv*sd*bc*sc*i* radeon # ATI Radeon Mobility 9600 (M10) NS (AGP)
+alias pcivideo:v00001002d00004E54sv*sd*bc*sc*i* radeon # ATI FireGL Mobility T2 (M10) NT (AGP)
+alias pcivideo:v00001002d00004E56sv*sd*bc*sc*i* radeon # ATI FireGL Mobility T2e (M11) NV (AGP)
+alias pcivideo:v00001002d00005144sv*sd*bc*sc*i* radeon # ATI Radeon QD (AGP)
+alias pcivideo:v00001002d00005145sv*sd*bc*sc*i* radeon # ATI Radeon QE (AGP)
+alias pcivideo:v00001002d00005146sv*sd*bc*sc*i* radeon # ATI Radeon QF (AGP)
+alias pcivideo:v00001002d00005147sv*sd*bc*sc*i* radeon # ATI Radeon QG (AGP)
+alias pcivideo:v00001002d00005148sv*sd*bc*sc*i* radeon # ATI FireGL 8700/8800 QH (AGP)
+alias pcivideo:v00001002d0000514Csv*sd*bc*sc*i* radeon # ATI Radeon 8500 QL (AGP)
+alias pcivideo:v00001002d0000514Dsv*sd*bc*sc*i* radeon # ATI Radeon 9100 QM (AGP)
+alias pcivideo:v00001002d00005157sv*sd*bc*sc*i* radeon # ATI Radeon 7500 QW (AGP/PCI)
+alias pcivideo:v00001002d00005158sv*sd*bc*sc*i* radeon # ATI Radeon 7500 QX (AGP/PCI)
+alias pcivideo:v00001002d00005159sv*sd*bc*sc*i* radeon # ATI Radeon VE/7000 QY (AGP/PCI)
+alias pcivideo:v00001002d0000515Asv*sd*bc*sc*i* radeon # ATI Radeon VE/7000 QZ (AGP/PCI)
+alias pcivideo:v00001002d0000515Esv*sd*bc*sc*i* radeon # ATI ES1000 515E (PCI)
+alias pcivideo:v00001002d00005460sv*sd*bc*sc*i* radeon # ATI Radeon Mobility X300 (M22) 5460 (PCIE)
+alias pcivideo:v00001002d00005462sv*sd*bc*sc*i* radeon # ATI Radeon Mobility X600 SE (M24C) 5462 (PCIE)
+alias pcivideo:v00001002d00005464sv*sd*bc*sc*i* radeon # ATI FireGL M22 GL 5464 (PCIE)
+alias pcivideo:v00001002d00005548sv*sd*bc*sc*i* radeon # ATI Radeon X800 (R423) UH (PCIE)
+alias pcivideo:v00001002d00005549sv*sd*bc*sc*i* radeon # ATI Radeon X800PRO (R423) UI (PCIE)
+alias pcivideo:v00001002d0000554Asv*sd*bc*sc*i* radeon # ATI Radeon X800LE (R423) UJ (PCIE)
+alias pcivideo:v00001002d0000554Bsv*sd*bc*sc*i* radeon # ATI Radeon X800SE (R423) UK (PCIE)
+alias pcivideo:v00001002d0000554Csv*sd*bc*sc*i* radeon # ATI Radeon X800 XTP (R430) (PCIE)
+alias pcivideo:v00001002d0000554Dsv*sd*bc*sc*i* radeon # ATI Radeon X800 XL (R430) (PCIE)
+alias pcivideo:v00001002d0000554Esv*sd*bc*sc*i* radeon # ATI Radeon X800 SE (R430) (PCIE)
+alias pcivideo:v00001002d0000554Fsv*sd*bc*sc*i* radeon # ATI Radeon X800 (R430) (PCIE)
+alias pcivideo:v00001002d00005550sv*sd*bc*sc*i* radeon # ATI FireGL V7100 (R423) (PCIE)
+alias pcivideo:v00001002d00005551sv*sd*bc*sc*i* radeon # ATI FireGL V5100 (R423) UQ (PCIE)
+alias pcivideo:v00001002d00005552sv*sd*bc*sc*i* radeon # ATI FireGL unknown (R423) UR (PCIE)
+alias pcivideo:v00001002d00005554sv*sd*bc*sc*i* radeon # ATI FireGL unknown (R423) UT (PCIE)
+alias pcivideo:v00001002d0000564Asv*sd*bc*sc*i* radeon # ATI Mobility FireGL V5000 (M26) (PCIE)
+alias pcivideo:v00001002d0000564Bsv*sd*bc*sc*i* radeon # ATI Mobility FireGL V5000 (M26) (PCIE)
+alias pcivideo:v00001002d0000564Fsv*sd*bc*sc*i* radeon # ATI Mobility Radeon X700 XL (M26) (PCIE)
+alias pcivideo:v00001002d00005652sv*sd*bc*sc*i* radeon # ATI Mobility Radeon X700 (M26) (PCIE)
+alias pcivideo:v00001002d00005653sv*sd*bc*sc*i* radeon # ATI Mobility Radeon X700 (M26) (PCIE)
+alias pcivideo:v00001002d00005657sv*sd*bc*sc*i* radeon # ATI Radeon X550XTX 5657 (PCIE)
+alias pcivideo:v00001002d00005834sv*sd*bc*sc*i* radeon # ATI Radeon 9100 IGP (A5) 5834
+alias pcivideo:v00001002d00005835sv*sd*bc*sc*i* radeon # ATI Radeon Mobility 9100 IGP (U3) 5835
+alias pcivideo:v00001002d00005954sv*sd*bc*sc*i* radeon # ATI Radeon XPRESS 200 5954 (PCIE)
+alias pcivideo:v00001002d00005955sv*sd*bc*sc*i* radeon # ATI Radeon XPRESS 200M 5955 (PCIE)
+alias pcivideo:v00001002d00005960sv*sd*bc*sc*i* radeon # ATI Radeon 9250 5960 (AGP)
+alias pcivideo:v00001002d00005961sv*sd*bc*sc*i* radeon # ATI Radeon 9200 5961 (AGP)
+alias pcivideo:v00001002d00005962sv*sd*bc*sc*i* radeon # ATI Radeon 9200 5962 (AGP)
+alias pcivideo:v00001002d00005964sv*sd*bc*sc*i* radeon # ATI Radeon 9200SE 5964 (AGP)
+alias pcivideo:v00001002d00005965sv*sd*bc*sc*i* radeon # ATI FireMV 2200 (PCI)
+alias pcivideo:v00001002d00005969sv*sd*bc*sc*i* radeon # ATI ES1000 5969 (PCI)
+alias pcivideo:v00001002d00005974sv*sd*bc*sc*i* radeon # ATI Radeon XPRESS 200 5974 (PCIE)
+alias pcivideo:v00001002d00005975sv*sd*bc*sc*i* radeon # ATI Radeon XPRESS 200M 5975 (PCIE)
+alias pcivideo:v00001002d00005A41sv*sd*bc*sc*i* radeon # ATI Radeon XPRESS 200 5A41 (PCIE)
+alias pcivideo:v00001002d00005A42sv*sd*bc*sc*i* radeon # ATI Radeon XPRESS 200M 5A42 (PCIE)
+alias pcivideo:v00001002d00005A61sv*sd*bc*sc*i* radeon # ATI Radeon XPRESS 200 5A61 (PCIE)
+alias pcivideo:v00001002d00005A62sv*sd*bc*sc*i* radeon # ATI Radeon XPRESS 200M 5A62 (PCIE)
+alias pcivideo:v00001002d00005B60sv*sd*bc*sc*i* radeon # ATI Radeon X300 (RV370) 5B60 (PCIE)
+alias pcivideo:v00001002d00005B62sv*sd*bc*sc*i* radeon # ATI Radeon X600 (RV370) 5B62 (PCIE)
+alias pcivideo:v00001002d00005B63sv*sd*bc*sc*i* radeon # ATI Radeon X550 (RV370) 5B63 (PCIE)
+alias pcivideo:v00001002d00005B64sv*sd*bc*sc*i* radeon # ATI FireGL V3100 (RV370) 5B64 (PCIE)
+alias pcivideo:v00001002d00005B65sv*sd*bc*sc*i* radeon # ATI FireMV 2200 PCIE (RV370) 5B65 (PCIE)
+alias pcivideo:v00001002d00005C61sv*sd*bc*sc*i* radeon # ATI Radeon Mobility 9200 (M9+) 5C61 (AGP)
+alias pcivideo:v00001002d00005C63sv*sd*bc*sc*i* radeon # ATI Radeon Mobility 9200 (M9+) 5C63 (AGP)
+alias pcivideo:v00001002d00005D48sv*sd*bc*sc*i* radeon # ATI Mobility Radeon X800 XT (M28) (PCIE)
+alias pcivideo:v00001002d00005D49sv*sd*bc*sc*i* radeon # ATI Mobility FireGL V5100 (M28) (PCIE)
+alias pcivideo:v00001002d00005D4Asv*sd*bc*sc*i* radeon # ATI Mobility Radeon X800 (M28) (PCIE)
+alias pcivideo:v00001002d00005D4Csv*sd*bc*sc*i* radeon # ATI Radeon X850 5D4C (PCIE)
+alias pcivideo:v00001002d00005D4Dsv*sd*bc*sc*i* radeon # ATI Radeon X850 XT PE (R480) (PCIE)
+alias pcivideo:v00001002d00005D4Esv*sd*bc*sc*i* radeon # ATI Radeon X850 SE (R480) (PCIE)
+alias pcivideo:v00001002d00005D4Fsv*sd*bc*sc*i* radeon # ATI Radeon X850 PRO (R480) (PCIE)
+alias pcivideo:v00001002d00005D50sv*sd*bc*sc*i* radeon # ATI unknown Radeon / FireGL (R480) 5D50 (PCIE)
+alias pcivideo:v00001002d00005D52sv*sd*bc*sc*i* radeon # ATI Radeon X850 XT (R480) (PCIE)
+alias pcivideo:v00001002d00005D57sv*sd*bc*sc*i* radeon # ATI Radeon X800XT (R423) 5D57 (PCIE)
+alias pcivideo:v00001002d00005E48sv*sd*bc*sc*i* radeon # ATI FireGL V5000 (RV410) (PCIE)
+alias pcivideo:v00001002d00005E4Asv*sd*bc*sc*i* radeon # ATI Radeon X700 XT (RV410) (PCIE)
+alias pcivideo:v00001002d00005E4Bsv*sd*bc*sc*i* radeon # ATI Radeon X700 PRO (RV410) (PCIE)
+alias pcivideo:v00001002d00005E4Csv*sd*bc*sc*i* radeon # ATI Radeon X700 SE (RV410) (PCIE)
+alias pcivideo:v00001002d00005E4Dsv*sd*bc*sc*i* radeon # ATI Radeon X700 (RV410) (PCIE)
+alias pcivideo:v00001002d00005E4Fsv*sd*bc*sc*i* radeon # ATI Radeon X700 SE (RV410) (PCIE)
+alias pcivideo:v00001002d00007100sv*sd*bc*sc*i* radeon # ATI Radeon X1800
+alias pcivideo:v00001002d00007101sv*sd*bc*sc*i* radeon # ATI Mobility Radeon X1800 XT
+alias pcivideo:v00001002d00007102sv*sd*bc*sc*i* radeon # ATI Mobility Radeon X1800
+alias pcivideo:v00001002d00007103sv*sd*bc*sc*i* radeon # ATI Mobility FireGL V7200
+alias pcivideo:v00001002d00007104sv*sd*bc*sc*i* radeon # ATI FireGL V7200
+alias pcivideo:v00001002d00007105sv*sd*bc*sc*i* radeon # ATI FireGL V5300
+alias pcivideo:v00001002d00007106sv*sd*bc*sc*i* radeon # ATI Mobility FireGL V7100
+alias pcivideo:v00001002d00007108sv*sd*bc*sc*i* radeon # ATI Radeon X1800
+alias pcivideo:v00001002d00007109sv*sd*bc*sc*i* radeon # ATI Radeon X1800
+alias pcivideo:v00001002d0000710Asv*sd*bc*sc*i* radeon # ATI Radeon X1800
+alias pcivideo:v00001002d0000710Bsv*sd*bc*sc*i* radeon # ATI Radeon X1800
+alias pcivideo:v00001002d0000710Csv*sd*bc*sc*i* radeon # ATI Radeon X1800
+alias pcivideo:v00001002d0000710Esv*sd*bc*sc*i* radeon # ATI FireGL V7300
+alias pcivideo:v00001002d0000710Fsv*sd*bc*sc*i* radeon # ATI FireGL V7350
+alias pcivideo:v00001002d00007140sv*sd*bc*sc*i* radeon # ATI Radeon X1600
+alias pcivideo:v00001002d00007141sv*sd*bc*sc*i* radeon # ATI RV505
+alias pcivideo:v00001002d00007142sv*sd*bc*sc*i* radeon # ATI Radeon X1300/X1550
+alias pcivideo:v00001002d00007143sv*sd*bc*sc*i* radeon # ATI Radeon X1550
+alias pcivideo:v00001002d00007144sv*sd*bc*sc*i* radeon # ATI M54-GL
+alias pcivideo:v00001002d00007145sv*sd*bc*sc*i* radeon # ATI Mobility Radeon X1400
+alias pcivideo:v00001002d00007146sv*sd*bc*sc*i* radeon # ATI Radeon X1300/X1550
+alias pcivideo:v00001002d00007147sv*sd*bc*sc*i* radeon # ATI Radeon X1550 64-bit
+alias pcivideo:v00001002d00007149sv*sd*bc*sc*i* radeon # ATI Mobility Radeon X1300
+alias pcivideo:v00001002d0000714Asv*sd*bc*sc*i* radeon # ATI Mobility Radeon X1300
+alias pcivideo:v00001002d0000714Bsv*sd*bc*sc*i* radeon # ATI Mobility Radeon X1300
+alias pcivideo:v00001002d0000714Csv*sd*bc*sc*i* radeon # ATI Mobility Radeon X1300
+alias pcivideo:v00001002d0000714Dsv*sd*bc*sc*i* radeon # ATI Radeon X1300
+alias pcivideo:v00001002d0000714Esv*sd*bc*sc*i* radeon # ATI Radeon X1300
+alias pcivideo:v00001002d0000714Fsv*sd*bc*sc*i* radeon # ATI RV505
+alias pcivideo:v00001002d00007151sv*sd*bc*sc*i* radeon # ATI RV505
+alias pcivideo:v00001002d00007152sv*sd*bc*sc*i* radeon # ATI FireGL V3300
+alias pcivideo:v00001002d00007153sv*sd*bc*sc*i* radeon # ATI FireGL V3350
+alias pcivideo:v00001002d0000715Esv*sd*bc*sc*i* radeon # ATI Radeon X1300
+alias pcivideo:v00001002d0000715Fsv*sd*bc*sc*i* radeon # ATI Radeon X1550 64-bit
+alias pcivideo:v00001002d00007180sv*sd*bc*sc*i* radeon # ATI Radeon X1300/X1550
+alias pcivideo:v00001002d00007181sv*sd*bc*sc*i* radeon # ATI Radeon X1600
+alias pcivideo:v00001002d00007183sv*sd*bc*sc*i* radeon # ATI Radeon X1300/X1550
+alias pcivideo:v00001002d00007186sv*sd*bc*sc*i* radeon # ATI Mobility Radeon X1450
+alias pcivideo:v00001002d00007187sv*sd*bc*sc*i* radeon # ATI Radeon X1300/X1550
+alias pcivideo:v00001002d00007188sv*sd*bc*sc*i* radeon # ATI Mobility Radeon X2300
+alias pcivideo:v00001002d0000718Asv*sd*bc*sc*i* radeon # ATI Mobility Radeon X2300
+alias pcivideo:v00001002d0000718Bsv*sd*bc*sc*i* radeon # ATI Mobility Radeon X1350
+alias pcivideo:v00001002d0000718Csv*sd*bc*sc*i* radeon # ATI Mobility Radeon X1350
+alias pcivideo:v00001002d0000718Dsv*sd*bc*sc*i* radeon # ATI Mobility Radeon X1450
+alias pcivideo:v00001002d0000718Fsv*sd*bc*sc*i* radeon # ATI Radeon X1300
+alias pcivideo:v00001002d00007193sv*sd*bc*sc*i* radeon # ATI Radeon X1550
+alias pcivideo:v00001002d00007196sv*sd*bc*sc*i* radeon # ATI Mobility Radeon X1350
+alias pcivideo:v00001002d0000719Bsv*sd*bc*sc*i* radeon # ATI FireMV 2250
+alias pcivideo:v00001002d0000719Fsv*sd*bc*sc*i* radeon # ATI Radeon X1550 64-bit
+alias pcivideo:v00001002d000071C0sv*sd*bc*sc*i* radeon # ATI Radeon X1600
+alias pcivideo:v00001002d000071C1sv*sd*bc*sc*i* radeon # ATI Radeon X1650
+alias pcivideo:v00001002d000071C2sv*sd*bc*sc*i* radeon # ATI Radeon X1600
+alias pcivideo:v00001002d000071C3sv*sd*bc*sc*i* radeon # ATI Radeon X1600
+alias pcivideo:v00001002d000071C4sv*sd*bc*sc*i* radeon # ATI Mobility FireGL V5200
+alias pcivideo:v00001002d000071C5sv*sd*bc*sc*i* radeon # ATI Mobility Radeon X1600
+alias pcivideo:v00001002d000071C6sv*sd*bc*sc*i* radeon # ATI Radeon X1650
+alias pcivideo:v00001002d000071C7sv*sd*bc*sc*i* radeon # ATI Radeon X1650
+alias pcivideo:v00001002d000071CDsv*sd*bc*sc*i* radeon # ATI Radeon X1600
+alias pcivideo:v00001002d000071CEsv*sd*bc*sc*i* radeon # ATI Radeon X1300 XT/X1600 Pro
+alias pcivideo:v00001002d000071D2sv*sd*bc*sc*i* radeon # ATI FireGL V3400
+alias pcivideo:v00001002d000071D4sv*sd*bc*sc*i* radeon # ATI Mobility FireGL V5250
+alias pcivideo:v00001002d000071D5sv*sd*bc*sc*i* radeon # ATI Mobility Radeon X1700
+alias pcivideo:v00001002d000071D6sv*sd*bc*sc*i* radeon # ATI Mobility Radeon X1700 XT
+alias pcivideo:v00001002d000071DAsv*sd*bc*sc*i* radeon # ATI FireGL V5200
+alias pcivideo:v00001002d000071DEsv*sd*bc*sc*i* radeon # ATI Mobility Radeon X1700
+alias pcivideo:v00001002d00007200sv*sd*bc*sc*i* radeon # ATI Radeon X2300HD
+alias pcivideo:v00001002d00007210sv*sd*bc*sc*i* radeon # ATI Mobility Radeon HD 2300
+alias pcivideo:v00001002d00007211sv*sd*bc*sc*i* radeon # ATI Mobility Radeon HD 2300
+alias pcivideo:v00001002d00007240sv*sd*bc*sc*i* radeon # ATI Radeon X1950
+alias pcivideo:v00001002d00007243sv*sd*bc*sc*i* radeon # ATI Radeon X1900
+alias pcivideo:v00001002d00007244sv*sd*bc*sc*i* radeon # ATI Radeon X1950
+alias pcivideo:v00001002d00007245sv*sd*bc*sc*i* radeon # ATI Radeon X1900
+alias pcivideo:v00001002d00007246sv*sd*bc*sc*i* radeon # ATI Radeon X1900
+alias pcivideo:v00001002d00007247sv*sd*bc*sc*i* radeon # ATI Radeon X1900
+alias pcivideo:v00001002d00007248sv*sd*bc*sc*i* radeon # ATI Radeon X1900
+alias pcivideo:v00001002d00007249sv*sd*bc*sc*i* radeon # ATI Radeon X1900
+alias pcivideo:v00001002d0000724Asv*sd*bc*sc*i* radeon # ATI Radeon X1900
+alias pcivideo:v00001002d0000724Bsv*sd*bc*sc*i* radeon # ATI Radeon X1900
+alias pcivideo:v00001002d0000724Csv*sd*bc*sc*i* radeon # ATI Radeon X1900
+alias pcivideo:v00001002d0000724Dsv*sd*bc*sc*i* radeon # ATI Radeon X1900
+alias pcivideo:v00001002d0000724Esv*sd*bc*sc*i* radeon # ATI AMD Stream Processor
+alias pcivideo:v00001002d0000724Fsv*sd*bc*sc*i* radeon # ATI Radeon X1900
+alias pcivideo:v00001002d00007280sv*sd*bc*sc*i* radeon # ATI Radeon X1950
+alias pcivideo:v00001002d00007281sv*sd*bc*sc*i* radeon # ATI RV560
+alias pcivideo:v00001002d00007283sv*sd*bc*sc*i* radeon # ATI RV560
+alias pcivideo:v00001002d00007284sv*sd*bc*sc*i* radeon # ATI Mobility Radeon X1900
+alias pcivideo:v00001002d00007287sv*sd*bc*sc*i* radeon # ATI RV560
+alias pcivideo:v00001002d00007288sv*sd*bc*sc*i* radeon # ATI Radeon X1950 GT
+alias pcivideo:v00001002d00007289sv*sd*bc*sc*i* radeon # ATI RV570
+alias pcivideo:v00001002d0000728Bsv*sd*bc*sc*i* radeon # ATI RV570
+alias pcivideo:v00001002d0000728Csv*sd*bc*sc*i* radeon # ATI FireGL V7400
+alias pcivideo:v00001002d00007290sv*sd*bc*sc*i* radeon # ATI RV560
+alias pcivideo:v00001002d00007291sv*sd*bc*sc*i* radeon # ATI Radeon X1650
+alias pcivideo:v00001002d00007293sv*sd*bc*sc*i* radeon # ATI Radeon X1650
+alias pcivideo:v00001002d00007297sv*sd*bc*sc*i* radeon # ATI RV560
+alias pcivideo:v00001002d00007834sv*sd*bc*sc*i* radeon # ATI Radeon 9100 PRO IGP 7834
+alias pcivideo:v00001002d00007835sv*sd*bc*sc*i* radeon # ATI Radeon Mobility 9200 IGP 7835
+alias pcivideo:v00001002d0000791Esv*sd*bc*sc*i* radeon # ATI Radeon X1200
+alias pcivideo:v00001002d0000791Fsv*sd*bc*sc*i* radeon # ATI Radeon X1200
+alias pcivideo:v00001002d0000793Fsv*sd*bc*sc*i* radeon # ATI Radeon X1200
+alias pcivideo:v00001002d00007941sv*sd*bc*sc*i* radeon # ATI Radeon X1200
+alias pcivideo:v00001002d00007942sv*sd*bc*sc*i* radeon # ATI Radeon X1200
+alias pcivideo:v00001002d0000796Csv*sd*bc*sc*i* radeon # ATI RS740
+alias pcivideo:v00001002d0000796Dsv*sd*bc*sc*i* radeon # ATI RS740M
+alias pcivideo:v00001002d0000796Esv*sd*bc*sc*i* radeon # ATI RS740
+alias pcivideo:v00001002d0000796Fsv*sd*bc*sc*i* radeon # ATI RS740M
+alias pcivideo:v00001002d00009400sv*sd*bc*sc*i* radeon # ATI Radeon HD 2900 XT
+alias pcivideo:v00001002d00009401sv*sd*bc*sc*i* radeon # ATI Radeon HD 2900 XT
+alias pcivideo:v00001002d00009402sv*sd*bc*sc*i* radeon # ATI Radeon HD 2900 XT
+alias pcivideo:v00001002d00009403sv*sd*bc*sc*i* radeon # ATI Radeon HD 2900 Pro
+alias pcivideo:v00001002d00009405sv*sd*bc*sc*i* radeon # ATI Radeon HD 2900 GT
+alias pcivideo:v00001002d0000940Asv*sd*bc*sc*i* radeon # ATI FireGL V8650
+alias pcivideo:v00001002d0000940Bsv*sd*bc*sc*i* radeon # ATI FireGL V8600
+alias pcivideo:v00001002d0000940Fsv*sd*bc*sc*i* radeon # ATI FireGL V7600
+alias pcivideo:v00001002d00009440sv*sd*bc*sc*i* radeon # ATI Radeon 4800 Series
+alias pcivideo:v00001002d00009441sv*sd*bc*sc*i* radeon # ATI Radeon HD 4870 x2
+alias pcivideo:v00001002d00009442sv*sd*bc*sc*i* radeon # ATI Radeon 4800 Series
+alias pcivideo:v00001002d00009443sv*sd*bc*sc*i* radeon # ATI Radeon HD 4850 x2
+alias pcivideo:v00001002d00009444sv*sd*bc*sc*i* radeon # ATI FirePro V8750 (FireGL)
+alias pcivideo:v00001002d00009446sv*sd*bc*sc*i* radeon # ATI FirePro V7760 (FireGL)
+alias pcivideo:v00001002d0000944Asv*sd*bc*sc*i* radeon # ATI Mobility RADEON HD 4850
+alias pcivideo:v00001002d0000944Bsv*sd*bc*sc*i* radeon # ATI Mobility RADEON HD 4850 X2
+alias pcivideo:v00001002d0000944Csv*sd*bc*sc*i* radeon # ATI Radeon 4800 Series
+alias pcivideo:v00001002d0000944Esv*sd*bc*sc*i* radeon # ATI FirePro RV770
+alias pcivideo:v00001002d00009450sv*sd*bc*sc*i* radeon # AMD FireStream 9270
+alias pcivideo:v00001002d00009452sv*sd*bc*sc*i* radeon # AMD FireStream 9250
+alias pcivideo:v00001002d00009456sv*sd*bc*sc*i* radeon # ATI FirePro V8700 (FireGL)
+alias pcivideo:v00001002d0000945Asv*sd*bc*sc*i* radeon # ATI Mobility RADEON HD 4870
+alias pcivideo:v00001002d0000945Bsv*sd*bc*sc*i* radeon # ATI Mobility RADEON M98
+alias pcivideo:v00001002d00009460sv*sd*bc*sc*i* radeon # ATI Radeon 4800 Series
+alias pcivideo:v00001002d00009462sv*sd*bc*sc*i* radeon # ATI Radeon 4800 Series
+alias pcivideo:v00001002d0000946Asv*sd*bc*sc*i* radeon # ATI FirePro M7750
+alias pcivideo:v00001002d0000946Bsv*sd*bc*sc*i* radeon # ATI M98
+alias pcivideo:v00001002d0000947Asv*sd*bc*sc*i* radeon # ATI M98
+alias pcivideo:v00001002d0000947Bsv*sd*bc*sc*i* radeon # ATI M98
+alias pcivideo:v00001002d00009480sv*sd*bc*sc*i* radeon # ATI Mobility Radeon HD 4650
+alias pcivideo:v00001002d00009487sv*sd*bc*sc*i* radeon # ATI Radeon RV730 (AGP)
+alias pcivideo:v00001002d00009488sv*sd*bc*sc*i* radeon # ATI Mobility Radeon HD 4670
+alias pcivideo:v00001002d00009489sv*sd*bc*sc*i* radeon # ATI FirePro M5750
+alias pcivideo:v00001002d0000948Fsv*sd*bc*sc*i* radeon # ATI Radeon RV730 (AGP)
+alias pcivideo:v00001002d00009490sv*sd*bc*sc*i* radeon # ATI RV730XT [Radeon HD 4670]
+alias pcivideo:v00001002d00009491sv*sd*bc*sc*i* radeon # ATI RADEON E4600
+alias pcivideo:v00001002d00009495sv*sd*bc*sc*i* radeon # ATI Radeon HD 4600 Series
+alias pcivideo:v00001002d00009498sv*sd*bc*sc*i* radeon # ATI RV730 PRO [Radeon HD 4650]
+alias pcivideo:v00001002d0000949Csv*sd*bc*sc*i* radeon # ATI FirePro V7750 (FireGL)
+alias pcivideo:v00001002d0000949Esv*sd*bc*sc*i* radeon # ATI FirePro V5700 (FireGL)
+alias pcivideo:v00001002d0000949Fsv*sd*bc*sc*i* radeon # ATI FirePro V3750 (FireGL)
+alias pcivideo:v00001002d000094A0sv*sd*bc*sc*i* radeon # ATI Mobility Radeon HD 4830
+alias pcivideo:v00001002d000094A1sv*sd*bc*sc*i* radeon # ATI Mobility Radeon HD 4850
+alias pcivideo:v00001002d000094A3sv*sd*bc*sc*i* radeon # ATI FirePro M7740
+alias pcivideo:v00001002d000094B1sv*sd*bc*sc*i* radeon # ATI RV740
+alias pcivideo:v00001002d000094B3sv*sd*bc*sc*i* radeon # ATI Radeon HD 4770
+alias pcivideo:v00001002d000094B4sv*sd*bc*sc*i* radeon # ATI Radeon HD 4700 Series
+alias pcivideo:v00001002d000094B5sv*sd*bc*sc*i* radeon # ATI Radeon HD 4770
+alias pcivideo:v00001002d000094B9sv*sd*bc*sc*i* radeon # ATI FirePro M5750
+alias pcivideo:v00001002d000094C0sv*sd*bc*sc*i* radeon # ATI RV610
+alias pcivideo:v00001002d000094C1sv*sd*bc*sc*i* radeon # ATI Radeon HD 2400 XT
+alias pcivideo:v00001002d000094C3sv*sd*bc*sc*i* radeon # ATI Radeon HD 2400 Pro
+alias pcivideo:v00001002d000094C4sv*sd*bc*sc*i* radeon # ATI Radeon HD 2400 PRO AGP
+alias pcivideo:v00001002d000094C5sv*sd*bc*sc*i* radeon # ATI FireGL V4000
+alias pcivideo:v00001002d000094C6sv*sd*bc*sc*i* radeon # ATI RV610
+alias pcivideo:v00001002d000094C7sv*sd*bc*sc*i* radeon # ATI Radeon HD 2350
+alias pcivideo:v00001002d000094C8sv*sd*bc*sc*i* radeon # ATI Mobility Radeon HD 2400 XT
+alias pcivideo:v00001002d000094C9sv*sd*bc*sc*i* radeon # ATI Mobility Radeon HD 2400
+alias pcivideo:v00001002d000094CBsv*sd*bc*sc*i* radeon # ATI RADEON E2400
+alias pcivideo:v00001002d000094CCsv*sd*bc*sc*i* radeon # ATI RV610
+alias pcivideo:v00001002d000094CDsv*sd*bc*sc*i* radeon # ATI FireMV 2260
+alias pcivideo:v00001002d00009500sv*sd*bc*sc*i* radeon # ATI RV670
+alias pcivideo:v00001002d00009501sv*sd*bc*sc*i* radeon # ATI Radeon HD3870
+alias pcivideo:v00001002d00009504sv*sd*bc*sc*i* radeon # ATI Mobility Radeon HD 3850
+alias pcivideo:v00001002d00009505sv*sd*bc*sc*i* radeon # ATI Radeon HD3850
+alias pcivideo:v00001002d00009506sv*sd*bc*sc*i* radeon # ATI Mobility Radeon HD 3850 X2
+alias pcivideo:v00001002d00009507sv*sd*bc*sc*i* radeon # ATI RV670
+alias pcivideo:v00001002d00009508sv*sd*bc*sc*i* radeon # ATI Mobility Radeon HD 3870
+alias pcivideo:v00001002d00009509sv*sd*bc*sc*i* radeon # ATI Mobility Radeon HD 3870 X2
+alias pcivideo:v00001002d0000950Fsv*sd*bc*sc*i* radeon # ATI Radeon HD3870 X2
+alias pcivideo:v00001002d00009511sv*sd*bc*sc*i* radeon # ATI FireGL V7700
+alias pcivideo:v00001002d00009515sv*sd*bc*sc*i* radeon # ATI Radeon HD3850
+alias pcivideo:v00001002d00009517sv*sd*bc*sc*i* radeon # ATI Radeon HD3690
+alias pcivideo:v00001002d00009519sv*sd*bc*sc*i* radeon # AMD Firestream 9170
+alias pcivideo:v00001002d00009540sv*sd*bc*sc*i* radeon # ATI Radeon HD 4550
+alias pcivideo:v00001002d00009541sv*sd*bc*sc*i* radeon # ATI Radeon RV710
+alias pcivideo:v00001002d0000954Esv*sd*bc*sc*i* radeon # ATI Radeon RV710
+alias pcivideo:v00001002d0000954Fsv*sd*bc*sc*i* radeon # ATI Radeon HD 4350
+alias pcivideo:v00001002d00009552sv*sd*bc*sc*i* radeon # ATI Mobility Radeon 4300 Series
+alias pcivideo:v00001002d00009553sv*sd*bc*sc*i* radeon # ATI Mobility Radeon 4500 Series
+alias pcivideo:v00001002d00009555sv*sd*bc*sc*i* radeon # ATI Mobility Radeon 4500 Series
+alias pcivideo:v00001002d00009557sv*sd*bc*sc*i* radeon # ATI FirePro RG220
+alias pcivideo:v00001002d00009580sv*sd*bc*sc*i* radeon # ATI RV630
+alias pcivideo:v00001002d00009581sv*sd*bc*sc*i* radeon # ATI Mobility Radeon HD 2600
+alias pcivideo:v00001002d00009583sv*sd*bc*sc*i* radeon # ATI Mobility Radeon HD 2600 XT
+alias pcivideo:v00001002d00009586sv*sd*bc*sc*i* radeon # ATI Radeon HD 2600 XT AGP
+alias pcivideo:v00001002d00009587sv*sd*bc*sc*i* radeon # ATI Radeon HD 2600 Pro AGP
+alias pcivideo:v00001002d00009588sv*sd*bc*sc*i* radeon # ATI Radeon HD 2600 XT
+alias pcivideo:v00001002d00009589sv*sd*bc*sc*i* radeon # ATI Radeon HD 2600 Pro
+alias pcivideo:v00001002d0000958Asv*sd*bc*sc*i* radeon # ATI Gemini RV630
+alias pcivideo:v00001002d0000958Bsv*sd*bc*sc*i* radeon # ATI Gemini Mobility Radeon HD 2600 XT
+alias pcivideo:v00001002d0000958Csv*sd*bc*sc*i* radeon # ATI FireGL V5600
+alias pcivideo:v00001002d0000958Dsv*sd*bc*sc*i* radeon # ATI FireGL V3600
+alias pcivideo:v00001002d0000958Esv*sd*bc*sc*i* radeon # ATI Radeon HD 2600 LE
+alias pcivideo:v00001002d0000958Fsv*sd*bc*sc*i* radeon # ATI Mobility FireGL Graphics Processor
+alias pcivideo:v00001002d00009542sv*sd*bc*sc*i* radeon # ATI Radeon RV710
+alias pcivideo:v00001002d000095C0sv*sd*bc*sc*i* radeon # ATI Radeon HD 3470
+alias pcivideo:v00001002d000095C2sv*sd*bc*sc*i* radeon # ATI Mobility Radeon HD 3430
+alias pcivideo:v00001002d000095C4sv*sd*bc*sc*i* radeon # ATI Mobility Radeon HD 3400 Series
+alias pcivideo:v00001002d000095C5sv*sd*bc*sc*i* radeon # ATI Radeon HD 3450
+alias pcivideo:v00001002d000095C6sv*sd*bc*sc*i* radeon # ATI Radeon HD 3450
+alias pcivideo:v00001002d000095C7sv*sd*bc*sc*i* radeon # ATI Radeon HD 3430
+alias pcivideo:v00001002d000095C9sv*sd*bc*sc*i* radeon # ATI Radeon HD 3450
+alias pcivideo:v00001002d000095CCsv*sd*bc*sc*i* radeon # ATI FirePro V3700
+alias pcivideo:v00001002d000095CDsv*sd*bc*sc*i* radeon # ATI FireMV 2450
+alias pcivideo:v00001002d000095CEsv*sd*bc*sc*i* radeon # ATI FireMV 2260
+alias pcivideo:v00001002d000095CFsv*sd*bc*sc*i* radeon # ATI FireMV 2260
+alias pcivideo:v00001002d00009590sv*sd*bc*sc*i* radeon # ATI Radeon HD 3600 Series
+alias pcivideo:v00001002d00009596sv*sd*bc*sc*i* radeon # ATI Radeon HD 3650 AGP
+alias pcivideo:v00001002d00009597sv*sd*bc*sc*i* radeon # ATI Radeon HD 3600 PRO
+alias pcivideo:v00001002d00009598sv*sd*bc*sc*i* radeon # ATI Radeon HD 3600 XT
+alias pcivideo:v00001002d00009599sv*sd*bc*sc*i* radeon # ATI Radeon HD 3600 PRO
+alias pcivideo:v00001002d00009591sv*sd*bc*sc*i* radeon # ATI Mobility Radeon HD 3650
+alias pcivideo:v00001002d00009593sv*sd*bc*sc*i* radeon # ATI Mobility Radeon HD 3670
+alias pcivideo:v00001002d00009595sv*sd*bc*sc*i* radeon # ATI Mobility FireGL V5700
+alias pcivideo:v00001002d0000959Bsv*sd*bc*sc*i* radeon # ATI Mobility FireGL V5725
+alias pcivideo:v00001002d00009610sv*sd*bc*sc*i* radeon # ATI Radeon HD 3200 Graphics
+alias pcivideo:v00001002d00009611sv*sd*bc*sc*i* radeon # ATI Radeon 3100 Graphics
+alias pcivideo:v00001002d00009612sv*sd*bc*sc*i* radeon # ATI Radeon HD 3200 Graphics
+alias pcivideo:v00001002d00009613sv*sd*bc*sc*i* radeon # ATI Radeon 3100 Graphics
+alias pcivideo:v00001002d00009614sv*sd*bc*sc*i* radeon # ATI Radeon HD 3300 Graphics
+alias pcivideo:v00001002d00009615sv*sd*bc*sc*i* radeon # ATI Radeon HD 3200 Graphics
+alias pcivideo:v00001002d00009616sv*sd*bc*sc*i* radeon # ATI Radeon 3000 Graphics
+alias pcivideo:v00001002d00009710sv*sd*bc*sc*i* radeon # ATI Radeon HD 4200
+alias pcivideo:v00001002d00009711sv*sd*bc*sc*i* radeon # ATI Radeon 4100
+alias pcivideo:v00001002d00009712sv*sd*bc*sc*i* radeon # ATI Mobility Radeon HD 4200
+alias pcivideo:v00001002d00009713sv*sd*bc*sc*i* radeon # ATI Mobility Radeon 4100
+alias pcivideo:v00001002d00009714sv*sd*bc*sc*i* radeon # ATI RS880

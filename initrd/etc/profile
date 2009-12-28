@@ -1,0 +1,22 @@
+#!/bin/bash
+
+export PATH=/bin:/busybox
+DISKS="sda sdb sdc sdd"
+cat <<EOF
+----- Physical Volumes ----------
+   Device Boot      Start         End      Blocks   Id  System
+EOF
+for i in $DISKS; do
+	if [ -b /dev/$i ]; then
+		fdisk -l /dev/$i | awk 'NR > 6 { print $0; }'
+	fi
+done
+cat << EOF
+---- LVM Volumes -------
+EOF
+lvscan
+cat <<EOF
+------------------------
+EOF
+
+cat /etc/motd

@@ -1,0 +1,12 @@
+#! /bin/bash
+
+case $1 in
+	on )
+		emit "Mounting base file systems ..." \
+		mount -a
+	;;
+	off )
+		emit "Umounting all file systems ..." \
+		umount -a
+	;;
+esac;

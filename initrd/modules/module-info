@@ -1,0 +1,922 @@
+Version 0
+3c509
+	eth
+	"3Com Etherlink III (3c509, 3c509B, 3c529, 3c579) ethernet driver"
+3c574_cs
+	eth
+	"3Com 3c574 series PCMCIA ethernet driver"
+3c589_cs
+	eth
+	"3Com 3c589 series PCMCIA ethernet driver"
+3c59x
+	eth
+	"3Com 3c59x/3c9xx ethernet driver"
+3w-9xxx
+	scsi
+	"3ware 9000 Storage Controller Linux Driver"
+3w-xxxx
+	scsi
+	"3ware Storage Controller Linux Driver"
+6pack
+	eth
+	"6pack driver for AX.25"
+8139cp
+	eth
+	"RealTek RTL-8139C+ series 10/100 PCI Ethernet driver"
+8139too
+	eth
+	"RealTek RTL-8139 Fast Ethernet driver"
+BusLogic
+	scsi
+	"BusLogic driver"
+DAC960
+	scsi
+	"DAC960 driver"
+a100u2w
+	scsi
+	"Initio A100U2W SCSI driver"
+aacraid
+	scsi
+	"Dell PERC2, 2/Si, 3/Si, 3/Di, Adaptec Advanced Raid Products, HP "
+acenic
+	eth
+	"AceNIC/3C985/GA620 Gigabit Ethernet driver"
+adm8211
+	eth
+	"Driver for IEEE 802.11b wireless cards based on ADMtek ADM8211"
+advansys
+	scsi
+	"advansys driver"
+aha152x
+	scsi
+	"Adaptec 152x SCSI driver; $Revision: 2.7 $"
+aha152x_cs
+	scsi
+	"Adaptec 152x SCSI driver; $Revision: 2.7 $"
+aha1542
+	scsi
+	"aha1542 driver"
+aic79xx
+	scsi
+	"Adaptec AIC790X U320 SCSI Host Bus Adapter driver"
+aic7xxx
+	scsi
+	"Adaptec AIC77XX/78XX SCSI Host Bus Adapter driver"
+aic7xxx_old
+	scsi
+	"aic7xxx_old driver"
+aic94xx
+	scsi
+	"Adaptec aic94xx SAS/SATA driver"
+airo
+	eth
+	"Support for Cisco/Aironet 802.11 wireless ethernet cards.  Direct"
+ali-ircc
+	eth
+	"ALi FIR Controller Driver"
+amd8111e
+	eth
+	"AMD8111 based 10/100 Ethernet Controller. Driver Version 3.0.7"
+ar9170usb
+	eth
+	"Atheros AR9170 802.11n USB wireless"
+arcmsr
+	scsi
+	"ARECA (ARC11xx/12xx/13xx/16xx) SATA/SAS RAID HOST Adapter"
+asix
+	eth
+	"ASIX AX8817X based USB 2.0 Ethernet Devices"
+at76_usb
+	eth
+	"Atmel at76x USB Wireless LAN Driver"
+at76c50x-usb
+	eth
+	"Atmel at76x USB Wireless LAN Driver"
+ata_generic
+	scsi
+	"low-level driver for generic ATA"
+ath5k
+	eth
+	"Support for 5xxx series of Atheros 802.11 wireless LAN cards."
+ath9k
+	eth
+	"Support for Atheros 802.11n wireless LAN cards."
+atl1
+	eth
+	"Atheros L1 Gigabit Ethernet Driver"
+atl1c
+	eth
+	"Atheros 1000M Ethernet Network Driver"
+atl1e
+	eth
+	"Atheros 1000M Ethernet Network Driver"
+atl2
+	eth
+	"Atheros Fast Ethernet Network Driver"
+atmel
+	eth
+	"Support for Atmel at76c50x 802.11 wireless ethernet cards."
+atp
+	eth
+	"RealTek RTL8002/8012 parallel port Ethernet driver"
+atp870u
+	scsi
+	"atp870u driver"
+axnet_cs
+	eth
+	"Asix AX88190 PCMCIA ethernet driver"
+b43
+	eth
+	"Broadcom B43 wireless driver"
+b43legacy
+	eth
+	"Broadcom B43legacy wireless driver"
+b44
+	eth
+	"Broadcom 44xx/47xx 10/100 PCI ethernet driver"
+baycom_epp
+	eth
+	"Baycom epp amateur radio modem driver"
+be2net
+	eth
+	"ServerEngines BladeEngine2 10Gbps NICDriver 2.0.348"
+bnx2
+	eth
+	"Broadcom NetXtreme II BCM5706/5708/5709/5716 Driver"
+bnx2x
+	eth
+	"Broadcom NetXtreme II BCM57710/57711/57711E Driver"
+can-dev
+	eth
+	"CAN device driver interface"
+cassini
+	eth
+	"Sun Cassini(+) ethernet driver"
+catc
+	eth
+	"CATC EL1210A NetMate USB Ethernet driver"
+cciss
+	scsi
+	"Driver for HP Smart Array Controllers"
+cdc-phonet
+	eth
+	"USB CDC Phonet host interface"
+cdc_eem
+	eth
+	"USB CDC EEM"
+cdc_ether
+	eth
+	"USB CDC Ethernet devices"
+cdc_subset
+	eth
+	"Simple 'CDC Subset' USB networking links"
+cpqarray
+	scsi
+	"Driver for Compaq Smart2 Array Controllers version 2.6.0"
+cxgb
+	eth
+	"Chelsio 10Gb Ethernet Driver"
+cxgb3
+	eth
+	"Chelsio T3 Network Driver"
+dc395x
+	scsi
+	"SCSI host adapter driver for Tekram TRM-S1040 based adapters: Tek"
+de2104x
+	eth
+	"Intel/Digital 21040/1 series PCI Ethernet driver"
+de4x5
+	eth
+	"de4x5 driver"
+de600
+	eth
+	"de600 driver"
+de620
+	eth
+	"de620 driver"
+dl2k
+	eth
+	"D-Link DL2000-based Gigabit Ethernet Adapter"
+dm9601
+	eth
+	"Davicom DM9601 USB 1.1 ethernet devices"
+dmfe
+	eth
+	"Davicom DM910X fast ethernet driver"
+dnet
+	eth
+	"Dave DNET Ethernet driver"
+dvb-core
+	eth
+	"DVB Core Driver"
+e100
+	eth
+	"Intel(R) PRO/100 Network Driver"
+e1000
+	eth
+	"Intel(R) PRO/1000 Network Driver"
+e1000e
+	eth
+	"Intel(R) PRO/1000 Network Driver"
+enic
+	eth
+	"Cisco 10G Ethernet Driver"
+epic100
+	eth
+	"SMC 83c170 EPIC series Ethernet driver"
+eql
+	eth
+	"eql driver"
+ethoc
+	eth
+	"OpenCores Ethernet MAC driver"
+ewrk3
+	eth
+	"ewrk3 driver"
+fakehard
+	eth
+	"fakehard driver"
+fcoe
+	scsi
+	"FCoE"
+fdomain
+	scsi
+	"Future domain SCSI driver"
+fdomain_cs
+	scsi
+	"Future Domain PCMCIA SCSI driver"
+fealnx
+	eth
+	"Myson MTD-8xx 100/10M Ethernet PCI Adapter Driver"
+firewire-net
+	eth
+	"IPv4 over IEEE1394 as per RFC 2734"
+firewire-sbp2
+	scsi
+	"SCSI over IEEE1394"
+fmvj18x_cs
+	eth
+	"fmvj18x and compatible PCMCIA ethernet driver"
+fnic
+	scsi
+	"Cisco FCoE HBA Driver"
+forcedeth
+	eth
+	"Reverse Engineered nForce ethernet driver"
+ftl
+	scsi
+	"Support code for Flash Translation Layer, used on PCMCIA devices"
+gdth
+	scsi
+	"gdth driver"
+gl620a
+	eth
+	"GL620-USB-A Host-to-Host Link cables"
+hamachi
+	eth
+	"Packet Engines 'Hamachi' GNIC-II Gigabit Ethernet driver"
+hdlcdrv
+	eth
+	"Packet Radio network interface HDLC encoder/decoder"
+hptiop
+	scsi
+	"HighPoint RocketRAID 3xxx/4xxx Controller Driver"
+hso
+	eth
+	"USB High Speed Option driver"
+hysdn
+	eth
+	"ISDN4Linux: Driver for HYSDN cards"
+i1480u-wlp
+	eth
+	"i1480 Wireless UWB Link WLP networking for USB"
+i2400m
+	eth
+	"Intel 2400M WiMAX networking bus-generic driver"
+i2o_block
+	scsi
+	"I2O Block Device OSM"
+i2o_scsi
+	scsi
+	"I2O SCSI Peripheral OSM"
+ib_ipoib
+	eth
+	"IP-over-InfiniBand net driver"
+ib_srp
+	scsi
+	"InfiniBand SCSI RDMA Protocol initiator v0.2 (November 1, 2005)"
+igb
+	eth
+	"Intel(R) Gigabit Ethernet Network Driver"
+igbvf
+	eth
+	"Intel(R) 82576 Virtual Function Network Driver"
+imm
+	scsi
+	"imm driver"
+inftl
+	scsi
+	"Support code for Inverse Flash Translation Layer, used on M-Syste"
+initio
+	scsi
+	"Initio INI-9X00U/UW SCSI device driver"
+int51x1
+	eth
+	"Intellon usb powerline adapter"
+ipddp
+	eth
+	"ipddp driver"
+ipg
+	eth
+	"IC Plus IP1000 Gigabit Ethernet Adapter Linux Driver"
+ips
+	scsi
+	"IBM ServeRAID Adapter Driver 7.12.05"
+ipw2100
+	eth
+	"Intel(R) PRO/Wireless 2100 Network Driver"
+ipw2200
+	eth
+	"Intel(R) PRO/Wireless 2200/2915 Network Driver"
+irda-usb
+	eth
+	"IrDA-USB Dongle Driver"
+isdn
+	eth
+	"ISDN4Linux: link layer"
+iw_c2
+	eth
+	"Ammasso AMSO1100 Low-level iWARP Driver"
+iw_nes
+	eth
+	"NetEffect RNIC Low-level iWARP Driver"
+iwl3945
+	eth
+	"Intel(R) PRO/Wireless 3945ABG/BG Network Connection driver for Li"
+iwlcore
+	eth
+	"iwl core"
+iwmc3200wifi
+	eth
+	"iwmc3200wifi driver"
+ixgb
+	eth
+	"Intel(R) PRO/10GbE Network Driver"
+ixgbe
+	eth
+	"Intel(R) 10 Gigabit PCI Express Network Driver"
+jme
+	eth
+	"JMicron JMC2x0 PCI Express Ethernet driver"
+kaweth
+	eth
+	"KL5USB101 USB Ethernet driver"
+kingsun-sir
+	eth
+	"IrDA-USB Dongle Driver for KingSun/DonShine"
+ks959-sir
+	eth
+	"IrDA-USB Dongle Driver for KingSun KS-959"
+ksdazzle-sir
+	eth
+	"IrDA-USB Dongle Driver for KingSun Dazzle"
+libertas
+	eth
+	"Libertas WLAN Driver Library"
+libertas_tf
+	eth
+	"Libertas WLAN Thinfirm Driver Library"
+lpfc
+	scsi
+	"Emulex LightPulse Fibre Channel SCSI driver 8.3.3"
+mac80211_hwsim
+	eth
+	"Software simulator of 802.11 radio(s) for mac80211"
+mcs7780
+	eth
+	"IrDA-USB Dongle Driver for MosChip MCS7780"
+mcs7830
+	eth
+	"USB to network adapter MCS7830)"
+megaraid
+	scsi
+	"LSI Logic MegaRAID legacy driver"
+megaraid_mbox
+	scsi
+	"LSI Logic MegaRAID Mailbox Driver"
+megaraid_sas
+	scsi
+	"LSI MegaRAID SAS Driver"
+microtek
+	scsi
+	"Microtek Scanmaker X6 USB scanner driver"
+mkiss
+	eth
+	"KISS driver for AX.25 over TTYs"
+mlx4_en
+	eth
+	"Mellanox ConnectX HCA Ethernet driver"
+mmc_block
+	scsi
+	"Multimedia Card (MMC) block device driver"
+mpt2sas
+	scsi
+	"LSI MPT Fusion SAS 2.0 Device Driver"
+mptfc
+	scsi
+	"Fusion MPT FC Host driver"
+mptlan
+	eth
+	"Fusion MPT LAN driver"
+mptsas
+	scsi
+	"Fusion MPT SAS Host driver"
+mptspi
+	scsi
+	"Fusion MPT SPI Host driver"
+mspro_block
+	scsi
+	"Sony MemoryStickPro block device driver"
+mtd_blkdevs
+	scsi
+	"Common interface to block layer for MTD 'translation layers'"
+mtdblock
+	scsi
+	"Caching read/erase/writeback block device emulation access to MTD"
+mtdblock_ro
+	scsi
+	"Simple read-only block device emulation access to MTD devices"
+mvsas
+	scsi
+	"Marvell 88SE6440 SAS/SATA controller driver"
+mwl8k
+	eth
+	"Marvell TOPDOG(R) 802.11 Wireless Network Driver"
+myri10ge
+	eth
+	"Myricom 10G driver (10GbE)"
+natsemi
+	eth
+	"National Semiconductor DP8381x series PCI Ethernet driver"
+nbd
+	scsi
+	"Network Block Device"
+ne
+	eth
+	"NE1000/NE2000 ISA/PnP Ethernet driver"
+ne2k-pci
+	eth
+	"PCI NE2000 clone driver"
+net1080
+	eth
+	"NetChip 1080 based USB Host-to-Host Links"
+netxen_nic
+	eth
+	"NetXen Multi port (1/10) Gigabit Network Driver"
+nftl
+	scsi
+	"Support code for NAND Flash Translation Layer, used on M-Systems "
+niu
+	eth
+	"NIU ethernet driver"
+nmclan_cs
+	eth
+	"New Media PCMCIA ethernet driver"
+nsc-ircc
+	eth
+	"NSC IrDA Device Driver"
+orinoco_cs
+	eth
+	"Driver for PCMCIA Lucent Orinoco, Prism II based and similar wire"
+orinoco_nortel
+	eth
+	"Driver for wireless LAN cards using the Nortel PCI bridge"
+orinoco_pci
+	eth
+	"Driver for wireless LAN cards using direct PCI interface"
+orinoco_plx
+	eth
+	"Driver for wireless LAN cards using the PLX9052 PCI bridge"
+orinoco_tmd
+	eth
+	"Driver for wireless LAN cards using the TMD7160 PCI bridge"
+osdblk
+	scsi
+	"block device inside an OSD object osdblk.ko"
+p54common
+	eth
+	"Softmac Prism54 common code"
+pata_acpi
+	scsi
+	"SCSI low-level driver for ATA in ACPI mode"
+pata_ali
+	scsi
+	"low-level driver for ALi PATA"
+pata_amd
+	scsi
+	"low-level driver for AMD and Nvidia PATA IDE"
+pata_artop
+	scsi
+	"SCSI low-level driver for ARTOP PATA"
+pata_atiixp
+	scsi
+	"low-level driver for ATI IXP200/300/400"
+pata_cmd640
+	scsi
+	"low-level driver for CMD640 PATA controllers"
+pata_cmd64x
+	scsi
+	"low-level driver for CMD64x series PATA controllers"
+pata_cs5520
+	scsi
+	"low-level driver for Cyrix CS5510/5520"
+pata_cs5530
+	scsi
+	"low-level driver for the Cyrix/NS/AMD 5530"
+pata_cs5535
+	scsi
+	"low-level driver for the NS/AMD 5530"
+pata_cs5536
+	scsi
+	"low-level driver for the CS5536 IDE controller"
+pata_cypress
+	scsi
+	"low-level driver for the CY82C693 PATA controller"
+pata_efar
+	scsi
+	"SCSI low-level driver for EFAR PIIX clones"
+pata_hpt366
+	scsi
+	"low-level driver for the Highpoint HPT366/368"
+pata_hpt37x
+	scsi
+	"low-level driver for the Highpoint HPT37x/30x"
+pata_hpt3x2n
+	scsi
+	"low-level driver for the Highpoint HPT3x2n/30x"
+pata_hpt3x3
+	scsi
+	"low-level driver for the Highpoint HPT343/363"
+pata_it8213
+	scsi
+	"SCSI low-level driver for the ITE 8213"
+pata_it821x
+	scsi
+	"low-level driver for the IT8211/IT8212 IDE RAID controller"
+pata_jmicron
+	scsi
+	"SCSI low-level driver for Jmicron PATA ports"
+pata_marvell
+	scsi
+	"SCSI low-level driver for Marvell ATA in legacy mode"
+pata_mpiix
+	scsi
+	"low-level driver for Intel MPIIX"
+pata_netcell
+	scsi
+	"SCSI low-level driver for Netcell PATA RAID"
+pata_ninja32
+	scsi
+	"low-level driver for Ninja32 ATA"
+pata_ns87410
+	scsi
+	"low-level driver for Nat Semi 87410"
+pata_ns87415
+	scsi
+	"ATA low-level driver for NS87415 controllers"
+pata_oldpiix
+	scsi
+	"SCSI low-level driver for early PIIX series controllers"
+pata_opti
+	scsi
+	"low-level driver for Opti 621/621X"
+pata_optidma
+	scsi
+	"low-level driver for Opti Firestar/Firestar Plus"
+pata_pcmcia
+	scsi
+	"low-level driver for PCMCIA ATA"
+pata_pdc2027x
+	scsi
+	"libata driver module for Promise PDC20268 to PDC20277"
+pata_pdc202xx_old
+	scsi
+	"low-level driver for Promise 2024x and 20262-20267"
+pata_qdi
+	scsi
+	"low-level driver for qdi ATA"
+pata_sch
+	scsi
+	"SCSI low-level driver for Intel SCH PATA controllers"
+pata_serverworks
+	scsi
+	"low-level driver for Serverworks OSB4/CSB5/CSB6"
+pata_sil680
+	scsi
+	"low-level driver for SI680 PATA"
+pata_sis
+	scsi
+	"SCSI low-level driver for SiS ATA"
+pata_sl82c105
+	scsi
+	"low-level driver for Sl82c105"
+pata_triflex
+	scsi
+	"low-level driver for Compaq Triflex"
+pata_via
+	scsi
+	"low-level driver for VIA PATA"
+pcd
+	scsi
+	"pcd driver"
+pcnet32
+	eth
+	"Driver for PCnet32 and PCnetPCI based ethercards"
+pcnet_cs
+	eth
+	"NE2000 compatible PCMCIA ethernet driver"
+pd
+	scsi
+	"pd driver"
+pdc_adma
+	scsi
+	"Pacific Digital Corporation ADMA low-level driver"
+pegasus
+	eth
+	"Pegasus/Pegasus II USB Ethernet driver"
+pf
+	scsi
+	"pf driver"
+plip
+	eth
+	"plip driver"
+plusb
+	eth
+	"Prolific PL-2301/2302 USB Host to Host Link Driver"
+ppa
+	scsi
+	"ppa driver"
+ppp_generic
+	eth
+	"ppp_generic driver"
+prism54
+	eth
+	"The Prism54 802.11 Wireless LAN adapter"
+qla1280
+	scsi
+	"Qlogic ISP SCSI (qla1x80/qla1x160) driver"
+qla2xxx
+	scsi
+	"QLogic Fibre Channel HBA Driver"
+qla3xxx
+	eth
+	"QLogic ISP3XXX Network Driver v2.03.00-k5"
+qla4xxx
+	scsi
+	"QLogic iSCSI HBA Driver"
+qlge
+	eth
+	"QLogic 10 Gigabit PCI-E Ethernet Driver"
+qlogic_cs
+	scsi
+	"Driver for the PCMCIA Qlogic FAS SCSI controllers"
+r6040
+	eth
+	"RDC R6040 NAPI PCI FastEthernet driver"
+r8169
+	eth
+	"RealTek RTL-8169 Gigabit Ethernet driver"
+rfd_ftl
+	scsi
+	"Support code for RFD Flash Translation Layer, used by General Sof"
+rndis_host
+	eth
+	"USB Host side RNDIS driver"
+rndis_wlan
+	eth
+	"Driver for RNDIS based USB Wireless adapters"
+rt2x00lib
+	eth
+	"rt2x00 library"
+rtl8150
+	eth
+	"rtl8150 based usb-ethernet driver"
+rtl8180
+	eth
+	"RTL8180 / RTL8185 PCI wireless driver"
+rtl8187
+	eth
+	"RTL8187/RTL8187B USB wireless driver"
+s2io
+	eth
+	"s2io driver"
+sata_inic162x
+	scsi
+	"low-level driver for Initio 162x SATA"
+sata_mv
+	scsi
+	"SCSI low-level driver for Marvell SATA controllers"
+sata_nv
+	scsi
+	"low-level driver for NVIDIA nForce SATA controller"
+sata_promise
+	scsi
+	"Promise ATA TX2/TX4/TX4000 low-level driver"
+sata_qstor
+	scsi
+	"Pacific Digital Corporation QStor SATA low-level driver"
+sata_sil
+	scsi
+	"low-level driver for Silicon Image SATA controller"
+sata_sil24
+	scsi
+	"Silicon Image 3124/3132 SATA low-level driver"
+sata_sis
+	scsi
+	"low-level driver for Silicon Integratad Systems SATA controller"
+sata_svw
+	scsi
+	"low-level driver for K2 SATA controller"
+sata_sx4
+	scsi
+	"Promise SATA low-level driver"
+sata_uli
+	scsi
+	"low-level driver for ULi Electronics SATA controller"
+sata_via
+	scsi
+	"SCSI low-level driver for VIA SATA controllers"
+sata_vsc
+	scsi
+	"low-level driver for Vitesse VSC7174 SATA controller"
+sb1000
+	eth
+	"General Instruments SB1000 driver"
+sc92031
+	eth
+	"Silan SC92031 PCI Fast Ethernet Adapter driver"
+scsi_debug
+	scsi
+	"SCSI debug adapter driver"
+scsi_dh_alua
+	scsi
+	"DM Multipath ALUA support"
+scsi_dh_emc
+	scsi
+	"EMC CX/AX/FC-family driver"
+scsi_dh_hp_sw
+	scsi
+	"HP Active/Passive driver"
+scsi_dh_rdac
+	scsi
+	"Multipath LSI/Engenio RDAC driver"
+scsi_transport_sas
+	scsi
+	"SAS Transport Attributes"
+sfc
+	eth
+	"Solarflare Communications network driver"
+sir-dev
+	eth
+	"IrDA SIR core"
+sis190
+	eth
+	"SiS sis190/191 Gigabit Ethernet driver"
+sis900
+	eth
+	"SiS 900 PCI Fast Ethernet driver"
+skfp
+	eth
+	"skfp driver"
+skge
+	eth
+	"SysKonnect Gigabit Ethernet driver"
+sky2
+	eth
+	"Marvell Yukon 2 Gigabit Ethernet driver"
+smc-ultra
+	eth
+	"SMC Ultra/EtherEZ ISA/PnP Ethernet driver"
+smc91c92_cs
+	eth
+	"SMC 91c92 series PCMCIA ethernet driver"
+smsc-ircc2
+	eth
+	"SMC IrCC SIR/FIR controller driver"
+smsc9420
+	eth
+	"smsc9420 driver"
+smsc95xx
+	eth
+	"SMSC95XX USB 2.0 Ethernet Devices"
+spectrum_cs
+	eth
+	"Driver for Symbol Spectrum24 Trilogy cards with firmware download"
+ssfdc
+	scsi
+	"Flash Translation Layer for read-only SSFDC SmartMedia card"
+starfire
+	eth
+	"Adaptec Starfire Ethernet driver"
+stex
+	scsi
+	"Promise Technology SuperTrak EX Controllers"
+stir4200
+	eth
+	"IrDA-USB Dongle Driver for SigmaTel STIr4200"
+sundance
+	eth
+	"Sundance Alta Ethernet driver"
+sungem
+	eth
+	"Sun GEM Gbit ethernet driver"
+sunhme
+	eth
+	"Sun HappyMealEthernet(HME) 10/100baseT ethernet driver"
+sx8
+	scsi
+	"Promise SATA SX8 block driver"
+sym53c500_cs
+	scsi
+	"SYM53C500 PCMCIA SCSI driver"
+sym53c8xx
+	scsi
+	"NCR, Symbios and LSI 8xx and 1010 PCI SCSI adapters"
+tehuti
+	eth
+	"Tehuti Networks(R) Network Driver"
+tg3
+	eth
+	"Broadcom Tigon3 ethernet driver"
+tlan
+	eth
+	"Driver for TI ThunderLAN based ethernet PCI adapters"
+tmscsim
+	scsi
+	"SCSI host adapter driver for Tekram DC390 and other AMD53C974A ba"
+tulip
+	eth
+	"Digital 21*4* Tulip ethernet driver"
+typhoon
+	eth
+	"3Com Typhoon Family (3C990, 3CR990, and variants)"
+uli526x
+	eth
+	"ULi M5261/M5263 fast ethernet driver"
+usb-storage
+	scsi
+	"USB Mass Storage driver for Linux"
+usbnet
+	eth
+	"USB network driver framework"
+via-ircc
+	eth
+	"VIA IrDA Device Driver"
+via-rhine
+	eth
+	"VIA Rhine PCI Fast Ethernet driver"
+via-velocity
+	eth
+	"VIA Networking Velocity Family Gigabit Ethernet Adapter Driver"
+virtio_blk
+	scsi
+	"Virtio block driver"
+virtio_net
+	eth
+	"Virtio network driver"
+vlsi_ir
+	eth
+	"IrDA SIR/MIR/FIR driver for VLSI 82C147"
+vxge
+	eth
+	"Neterion's X3100 Series 10GbE PCIe I/OVirtualized Server Adapter"
+w83977af_ir
+	eth
+	"Winbond W83977AF IrDA Device Driver"
+winbond-840
+	eth
+	"Winbond W89c840 Ethernet driver"
+wl3501_cs
+	eth
+	"Planet wl3501 wireless driver"
+xirc2ps_cs
+	eth
+	"Xircom PCMCIA ethernet driver"
+xircom_cb
+	eth
+	"Xircom Cardbus ethernet driver"
+yam
+	eth
+	"Yam amateur radio modem driver"
+yellowfin
+	eth
+	"Packet Engines Yellowfin G-NIC Gigabit Ethernet driver"
+zaurus
+	eth
+	"Sharp Zaurus PDA, and compatible products"
+zd1201
+	eth
+	"Driver for ZyDAS ZD1201 based USB Wireless adapters"
+zd1211rw
+	eth
+	"USB driver for devices with the ZD1211 chip."

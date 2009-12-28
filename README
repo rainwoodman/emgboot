@@ -1,0 +1,61 @@
+Linux Recovery Console
+=======================
+
+This console is based on Fedora 12 Installation Media (2.6.31.5-127.fc12.i686)
+
+It contains
+
+ * bash
+ * busybox
+ * LVM & filesystem tools.
+
+Efforts were made on PNP and DHCP(networking), thought not so sure it works as expected.
+
+If your USB stick or network doesn't work, try to find the device name from lspci or lsusb and
+load the kernel module manually.
+
+udhcpc shall work out of box; it is actually invoked at the end of sysinit. 
+The scripting hook is borrowed from FreeWRT.
+
+INSTALL
+========
+
+1. to obtain an initrd.img image, use
+  # ./mk
+
+2. to deploy the files to /boot
+  # su
+  # mkdir /boot/recovery
+  # cp initrd.img /boot/recovery
+  # cp vmlinuz /boot/recovery
+
+3. to add the recovery to grub
+  # vi /boot/grub/grub.conf
+  add the following lines to the file {{{
+
+title Recovery Console
+	root (hd0,0)
+	kernel /recovery/vmlinuz
+	initrd /recovery/initrd.img
+
+}}}
+
+
+SOURCE
+===============
+
+On this github the binary files are provided, 
+as per requirement of GPL, you can always find the source code from Fedora's SRPM repository:
+
+vmlinuz (kernel 2.6.31.5-127.fc12.i686):
+	yumdownloader --source kernel
+bash
+	yumdownloader --source bash
+busybox
+	yumdownloader --source busybox
+
+In general, you can find the rpm package on a working Fedora machine,
+	$ rpm -q -f <file you need source code>
+	somepackage-xx.xx.xx
+and use yumdownloader --source to obtain the source code.
+

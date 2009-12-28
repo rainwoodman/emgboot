@@ -1,0 +1,6 @@
+#! /bin/bash
+
+while [ "x$1" != x ]; do
+	ln -s ../bin/busybox busybox/$1
+	shift
+done;

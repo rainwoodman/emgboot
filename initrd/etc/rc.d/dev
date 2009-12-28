@@ -1,0 +1,29 @@
+#! /bin/bash
+
+
+function hotplugmdev {
+	echo /busybox/mdev > /proc/sys/kernel/hotplug;
+}
+
+function loadmodule {
+	modprobe -q "$1" 2>&1 > /dev/null && echo -n "o" || echo -n "x"
+}
+
+function coldplug {
+	find /sys/devices -name modalias | (
+		while read module; do 
+			devdir=`dirname "$module"`
+			busaddr=`cat "$module"`
+			if ! [ -h "$devdir/driver" ]; then
+				loadmodule "$busaddr"
+			fi;
+		done;
+	)
+# trigger mdev, to ensure everything has a devfile
+	mdev -s
+}
+
+emit "Connecting busybox to hotplug ..." \
+	hotplugmdev
+emit "Coldplug ..." \
+	coldplug

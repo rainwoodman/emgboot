@@ -1,0 +1,34 @@
+#! /bin/bash
+RESOLV_CONF=/etc/resolv.conf
+case $1 in 
+	deconfig )
+		echo Deconfig $interface
+		ifconfig $interface 0.0.0.0
+	;;
+	bound )
+		echo $interface = $ip/$subnet
+		ifconfig $interface $ip \
+		netmask ${subnet:-255.255.255.0} \
+		broadcast ${broadcast:-+}
+ 
+		[ -n "$router" ] && {
+			valid=
+			for i in $router ; do 
+				echo $interface via $router
+				route add default gw $router dev $interface
+				valid="$valid|$i"
+			done
+			$(route -n | awk '/^0.0.0.0\W{9}('$valid')\W/ {next} /^0.0.0.0/ {print "route del -net "$1" gw "$2";"}') ;
+		}
+
+		[ -n "$dns" ] && {
+			echo -n > "${RESOLV_CONF}.tmp"
+			${domain:+echo search $domain} >> "${RESOLV_CONF}.tmp" ;
+			for i in $dns ; do
+				echo "adding dns $i" ;
+				echo "nameserver $i" >> "${RESOLV_CONF}.tmp" ;
+			done ;
+			mv "${RESOLV_CONF}.tmp" "$RESOLV_CONF" ;
+		}
+	;;
+esac

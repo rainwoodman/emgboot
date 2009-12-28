@@ -1,0 +1,4 @@
+::sysinit:/etc/rc on
+::respawn:-/bin/bash -l
+::ctrlaltdel:/etc/rc off
+::ctrlaltdel:/busybox/reboot
